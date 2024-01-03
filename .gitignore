@@ -11,7 +11,6 @@
 migrate_working_dir/
 
 # IntelliJ related
-*.iml
 *.ipr
 *.iws
 .idea/
@@ -49,7 +48,3 @@ ios
 linux
 macos
 windows
-lib
-web
-pubspec.lock
-pubspec.yaml
